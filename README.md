@@ -27,7 +27,7 @@ Flask application for recording stock purchases and tracking portfolio value.
 A Python notebook that scrapes men's shirt listings from Zara (name, price, and product image) and exports the results to CSV, JSON, and an HTML gallery.
 `Python` · `Requests` · `BeautifulSoup4` · `Pandas`
 
-### 🎮 [Olympics Race Simulator](https://github.com/hoomanv3xo)
+### 🎮 [Olympics Race Simulator](https://github.com/hoomanv3xo/Olympic-Race-Simulator)
 Animated sprint race simulator with live timers and country selection.
 `JavaScript` · `HTML/CSS`
 
