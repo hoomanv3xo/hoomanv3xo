@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-open%20to%20freelance%20%26%20full--time-brightgreen" alt="Open to work">
   <a href="https://hoomanv3xo.github.io"><img src="https://img.shields.io/badge/Home Page-blue" alt="Profile"></a>
+  <a href="https://hoomanvahdat0.github.io/"><img src="https://img.shields.io/badge/Blog-red" alt="Blog"></a>
 </p>
 
 ---
