@@ -19,7 +19,10 @@
 
 ### 📊 [Payment Funnel Analysis – SaaS FinTech](https://github.com/hoomanv3xo/Payment-Funnel-Analysis-SaaS-FinTech)
 Finds where users drop off in a payment portal and recommends fixes to raise successful-payment conversion. Built a product funnel analysis with SQL on Snowflake and a Python notebook.
-**[Live dashboard →](https://hoomanv3xo.github.io/Payment-Funnel-Analysis-SaaS-FinTech/order_funnel_dashboard.html)**
+### 📊 [Payment Funnel Analysis – SaaS FinTech](https://github.com/hoomanv3xo/Payment-Funnel-Analysis-SaaS-FinTech)
+Finds where users drop off in a payment portal and recommends fixes to raise successful-payment conversion. Only 24% of subscriptions converted, leaving $353,500 of pipeline revenue uncollected.
+**[Read the case study →](http://hooman-codes.ca/Payment-Funnel-Analysis-SaaS-FinTech/)**
+`SQL` · `Python` · `Snowflake`
 `SQL` · `Python` · `Snowflake`
 
 ## 🧠 Data & ML
