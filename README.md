@@ -1,53 +1,72 @@
-# Hi, I'm Hooman Vahdat 👋
+<h1 align="center">Hi, I'm Hooman Vahdat 👋</h1>
 
-Software Developer / Data Analyst based in Toronto. I build web apps, bots, and dashboards with Python, SQL, Java, and the right tool for the job. Currently pursuing an M.Sc. in Data Science.
+<p align="center">
+  <b>Software Developer & Data Analyst</b> · Toronto, Canada<br>
+  I build web apps, data dashboards, and ML tools with Python, SQL, and JavaScript.<br>
+  Currently pursuing an <b>M.Sc. in Data Science</b> at the University of Colorado Boulder.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-open%20to%20freelance%20%26%20full--time-brightgreen" alt="Open to work">
+  <a href="https://hoomanv3xo.github.io"><img src="https://img.shields.io/badge/blog-hoomanv3xo.github.io-blue" alt="Blog"></a>
+</p>
 
 ---
 
 ![Selected Projects](./projects-banner.svg)
 
-### 🤖 [Payment Funnel Analysis – SaaS FinTech](https://github.com/hoomanv3xo/Payment-Funnel-Analysis-SaaS-FinTech)
-Identifies pain points within a payment portal and provides actionable recommendations to improve conversion rate of successful payments, using SQL and a data science notebook to build a product funnel analysis.
-📊 [Project Dashboard](https://hoomanv3xo.github.io/Payment-Funnel-Analysis-SaaS-FinTech/order_funnel_dashboard.html)
-`SQL` · `Python` · `Snowflake Data Warehouse`
+## ⭐ Featured
 
-### 🤖 [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot)
-Browser chatbot powered by Flask and the Cohere AI API with Markdown responses.
-`Flask` · `Cohere API`
+### 📊 [Payment Funnel Analysis – SaaS FinTech](https://github.com/hoomanv3xo/Payment-Funnel-Analysis-SaaS-FinTech)
+Finds where users drop off in a payment portal and recommends fixes to raise successful-payment conversion. Built a product funnel analysis with SQL on Snowflake and a Python notebook.
+**[Live dashboard →](https://hoomanv3xo.github.io/Payment-Funnel-Analysis-SaaS-FinTech/order_funnel_dashboard.html)**
+`SQL` · `Python` · `Snowflake`
 
-### 🧠 [Diabetes Prediction System](https://github.com/hoomanv3xo/Diabetes-Prediction-System)
-Machine learning app that estimates diabetes risk from patient health metrics.
+## 🧠 Data & ML
+
+### [Diabetes Prediction System](https://github.com/hoomanv3xo/Diabetes-Prediction-System)
+ML app that estimates diabetes risk from patient health metrics.
 `Streamlit` · `scikit-learn`
 
-### 🌐 [Stocks Portfolio](https://github.com/hoomanv3xo/Stocks-Portfolio)
-Flask application for recording stock purchases and tracking portfolio value.
-`Flask` · `Python`
-
-### 📈 [Zara Scraper](https://github.com/hoomanv3xo/Zara-Scraper)
-A Python notebook that scrapes men's shirt listings from Zara (name, price, and product image) and exports the results to CSV, JSON, and an HTML gallery.
+### [Zara Scraper](https://github.com/hoomanv3xo/Zara-Scraper)
+Scrapes men's shirt listings (name, price, image) and exports to CSV, JSON, and an HTML gallery.
 `Python` · `Requests` · `BeautifulSoup4` · `Pandas`
 
-### 🎮 [Olympics Race Simulator](https://github.com/hoomanv3xo/Olympic-Race-Simulator)
-Animated sprint race simulator with live timers and country selection.
+## 🌐 Web Apps
+
+### [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot)
+Browser chatbot powered by Flask and the Cohere API, with Markdown-rendered responses.
+`Flask` · `Cohere API`
+
+### [Stocks Portfolio](https://github.com/hoomanv3xo/Stocks-Portfolio)
+Record stock purchases and track portfolio value over time.
+`Flask` · `Python`
+
+### [Olympics Race Simulator](https://github.com/hoomanv3xo/Olympic-Race-Simulator)
+Animated sprint simulator with live timers and country selection.
 `JavaScript` · `HTML/CSS`
 
 ---
 
-## 🧑‍💻 About
-
-- 📍 Location: Toronto, Canada
-- 💼 Role: Software Developer
-- 🟢 Status: Open to freelance and full-time roles
-
 ## 🛠️ Toolkit
 
-`Python` `Flask` `Django` `SQL` `JavaScript` `Java` `HTML/CSS` `Visual Basic` `Bootstrap` `Git` `GitHub`
+| | |
+|---|---|
+| **Languages** | Python · SQL · JavaScript · Java · Visual Basic |
+| **Web** | Flask · Django · Bootstrap · HTML/CSS |
+| **Data** | pandas · scikit-learn · Streamlit · Plotly Dash · Snowflake |
+| **Tools** | Git · GitHub |
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
 | Period | Program | Institution |
 |---|---|---|
-| 2026 — Present | M.Sc. Data Science | University of Colorado Boulder |
-| 2026 — Present | Harvard CS for Web Programming Certificate | Coursera |
-| 2026 | Big SQL Energy (Beginner and Intermediate) | — |
-| 2016 | University Certificate | Toronto Metropolitan University |
+| 2026 – Present | M.Sc. Data Science | University of Colorado Boulder |
+| 2026 | Harvard CS50 Web Programming | Harvard / edX |
+| 2026 | Big SQL Energy (Beginner & Intermediate) | — |
+| 2013 – 2017 | University Certificate, Computer Programming Applications | Toronto Metropolitan University |
+
+## 📫 Let's connect
+
+Open to junior-to-mid full-stack, backend, and data analyst roles, plus freelance work.
+[LinkedIn](#) · [Email](mailto:you@example.com) · [Blog](https://hoomanv3xo.github.io)
