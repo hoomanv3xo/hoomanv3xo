@@ -1,6 +1,6 @@
 # Hi, I'm Hooman Vahdat 👋
 
-Software developer based in Toronto. I build web apps, bots, and dashboards with Python, SQL, Java, and the right tool for the job. Currently pursuing an M.Sc. in Data Science.
+Software Developer / Data Analyst based in Toronto. I build web apps, bots, and dashboards with Python, SQL, Java, and the right tool for the job. Currently pursuing an M.Sc. in Data Science.
 
 ---
 
