@@ -63,7 +63,7 @@ Animated sprint simulator with live timers and country selection.
 |---|---|---|
 | 2026 – Present | M.Sc. Data Science | University of Colorado Boulder |
 | 2026 | Harvard CS50 Web Programming | Harvard / edX |
-| 2026 | Big SQL Energy (Beginner & Intermediate) | — |
+| 2026 | Big SQL Energy (Beginner & Intermediate) | https://www.bigdataenergycourses.com/ |
 | 2013 – 2017 | University Certificate, Computer Programming Applications | Toronto Metropolitan University |
 
 ## 📫 Let's connect
