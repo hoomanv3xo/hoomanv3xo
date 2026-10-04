@@ -69,4 +69,4 @@ Animated sprint simulator with live timers and country selection.
 ## 📫 Let's connect
 
 Open to junior-to-mid full-stack, backend, and data analyst roles, plus freelance work.
-[LinkedIn](#) · [Email](mailto:you@example.com) · [Blog](https://hoomanv3xo.github.io)
+[LinkedIn](http://www.linkedin.com/in/hoomanvahdat) · [Email](mailto:hoomanv3@gmail.com) · [Profile](https://hoomanv3xo.github.io)
