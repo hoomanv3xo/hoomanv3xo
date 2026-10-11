@@ -70,4 +70,4 @@ Animated sprint simulator with live timers and country selection.
 ## 📫 Let's connect
 
 Open to junior-to-mid full-stack, backend, and data analyst roles, plus freelance work.
-[LinkedIn](http://www.linkedin.com/in/hoomanvahdat) · [Email](mailto:hoomanv3@gmail.com) · [Home Page](https://hoomanv3xo.github.io) . [Blog](https://hoomanvahdat0.github.io) [Home Page](http://www.hooman-codes.ca) 
+[LinkedIn](http://www.linkedin.com/in/hoomanvahdat) · [Email](mailto:hoomanv3@gmail.com) · [Home Page](https://hoomanv3xo.github.io) . [Blog](https://hoomanvahdat0.github.io) [UpWork](https://www.upwork.com/freelancers/~01296bbcc2396a072c?mp_source=share) . [Fiverr](https://www.fiverr.com/s/Neek8zp)
