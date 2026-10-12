@@ -16,27 +16,29 @@
 
 ![Selected Projects](./projects-banner.svg)
 
-##  Featured
+## Featured
 
-###  [Stock Portfolio Tracker](https://github.com/hoomanv3xo/Stocks-Portfolio)
+### [Stock Portfolio Tracker](https://github.com/hoomanv3xo/Stocks-Portfolio)
 
 Record stock purchases and track portfolio value over time.
 
 `Flask` · `Python`
 
-## Others
+## Back-End & APIs
 
-###  [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot)
+### [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot)
 
-A simple web-based chatbot built with Flask and powered by the Cohere AI API. Users can ask questions through a browser interface and receive AI-generated responses rendered in formatted Markdown.
+Web-based chatbot built with Flask and the Cohere AI API. Users ask questions in the browser and get AI-generated responses rendered as formatted Markdown.
 
 `Flask` · `Cohere API`
 
-### [Wiki](https://github.com/code50/16233385/tree/main/wiki)
+### Wiki (CS50W)
 
-Built a Wikipedia-like web application enabling users to create, edit and search entries.
+Wikipedia-style web app for creating, editing, and searching encyclopedia entries.
 
-`Python` · `Django` · `HTML/CSS` ·
+`Python` · `Django` · `HTML/CSS`
+
+## Front-End & React
 
 ### [Tic-Tac-Toe](https://github.com/hoomanv3xo/tic-tac-toe-react) · [Live demo](https://hooman-tictactoe.netlify.app)
 
@@ -44,17 +46,19 @@ React game with win detection and move-history time travel, deployed on Netlify.
 
 `React` · `JavaScript`
 
+### [TrimEster](https://github.com/hoomanv3xo/TrimEster)
+
+Weight-tracking web app where users record their weight and see their progress on a graph.
+
+`HTML/CSS` · `JavaScript`
+
+## Machine Learning
+
 ### [Diabetes Prediction App](https://github.com/hoomanv3xo/Diabetes-Prediction-System)
 
 ML app that estimates diabetes risk from patient health metrics, trained on the Pima Indians Diabetes dataset.
 
 `Streamlit` · `scikit-learn`
-
-### [TrimEster](https://github.com/hoomanv3xo/TrimEster)
-
-Delivered a weight-monitoring web app where users can record their weights and see their progress graphically.
-
-`HTML/CSS` · `JavaScript`
 
 ---
 
