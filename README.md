@@ -24,21 +24,17 @@ Record stock purchases and track portfolio value over time.
 
 `Flask` · `Python`
 
-### 📊 [Payment Funnel Analysis – SaaS FinTech](https://github.com/hoomanv3xo/Payment-Funnel-Analysis-SaaS-FinTech)
+### 📊 [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot)
 
-Finds where users drop off in a payment portal and recommends fixes to raise successful-payment conversion. Only 24% of subscriptions converted, leaving $353,500 of pipeline revenue uncollected.
-
-**[Read the case study →](https://hooman-codes.ca/Payment-Funnel-Analysis-SaaS-FinTech/)**
-
-`SQL` · `Python` · `Snowflake`
-
-## 🌐 Web Apps
-
-### [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot)
-
-Browser chatbot powered by Flask and the Cohere API, with Markdown-rendered responses.
+A simple web-based chatbot built with Flask and powered by the Cohere AI API. Users can ask questions through a browser interface and receive AI-generated responses rendered in formatted Markdown.
 
 `Flask` · `Cohere API`
+
+### [Wiki]()
+
+Built a Wikipedia-like web application enabling users to create, edit and search entries.
+
+`Python` · `Django` · `HTML/CSS` ·
 
 ### [Tic-Tac-Toe](https://github.com/hoomanv3xo/tic-tac-toe-react) · [Live demo](https://hooman-tictactoe.netlify.app)
 
@@ -46,13 +42,8 @@ React game with win detection and move-history time travel, deployed on Netlify.
 
 `React` · `JavaScript`
 
-### [Olympics Race Simulator](https://github.com/hoomanv3xo/Olympic-Race-Simulator)
 
-Animated sprint simulator with live timers and country selection.
 
-`JavaScript` · `HTML/CSS`
-
-## 🧠 Data & ML
 
 ### [Diabetes Prediction App](https://github.com/hoomanv3xo/Diabetes-Prediction-System)
 
@@ -60,11 +51,11 @@ ML app that estimates diabetes risk from patient health metrics, trained on the 
 
 `Streamlit` · `scikit-learn`
 
-### [Zara Scraper](https://github.com/hoomanv3xo/Zara-Scraper)
+### [TrimEster]()
 
-Scrapes men's shirt listings (name, price, image) and exports to CSV, JSON, and an HTML gallery.
+Delivered a weight-monitoring web app where users can record their weights and see their progress graphically.
 
-`Python` · `Requests` · `BeautifulSoup4` · `Pandas`
+`HTML/CSS` · `JavaScript`
 
 ---
 
