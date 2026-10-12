@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hooman Vahdat 👋</h1>
 
 <p align="center">
-  <b>Software Developer & Data Analyst</b> · Toronto, Canada<br>
+  <b>Software Developer</b> · Toronto, Canada<br>
   I build web apps, data dashboards, and ML tools with Python, SQL, and JavaScript.<br>
   Currently pursuing an <b>M.Sc. in Data Science</b> at the University of Colorado Boulder.
 </p>
