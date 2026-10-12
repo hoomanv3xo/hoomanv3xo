@@ -16,21 +16,23 @@
 
 ![Selected Projects](./projects-banner.svg)
 
-## ⭐ Featured
+##  Featured
 
-### 📈 [Stock Portfolio Tracker](https://github.com/hoomanv3xo/Stocks-Portfolio)
+###  [Stock Portfolio Tracker](https://github.com/hoomanv3xo/Stocks-Portfolio)
 
 Record stock purchases and track portfolio value over time.
 
 `Flask` · `Python`
 
-### 📊 [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot)
+## Others
+
+###  [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot)
 
 A simple web-based chatbot built with Flask and powered by the Cohere AI API. Users can ask questions through a browser interface and receive AI-generated responses rendered in formatted Markdown.
 
 `Flask` · `Cohere API`
 
-### [Wiki]()
+### [Wiki](https://github.com/code50/16233385/tree/main/wiki)
 
 Built a Wikipedia-like web application enabling users to create, edit and search entries.
 
@@ -41,7 +43,6 @@ Built a Wikipedia-like web application enabling users to create, edit and search
 React game with win detection and move-history time travel, deployed on Netlify.
 
 `React` · `JavaScript`
-
 
 ### [Diabetes Prediction App](https://github.com/hoomanv3xo/Diabetes-Prediction-System)
 
