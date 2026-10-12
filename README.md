@@ -18,6 +18,12 @@
 
 ## ⭐ Featured
 
+### 📈 [Stock Portfolio Tracker](https://github.com/hoomanv3xo/Stocks-Portfolio)
+
+Record stock purchases and track portfolio value over time.
+
+`Flask` · `Python`
+
 ### 📊 [Payment Funnel Analysis – SaaS FinTech](https://github.com/hoomanv3xo/Payment-Funnel-Analysis-SaaS-FinTech)
 
 Finds where users drop off in a payment portal and recommends fixes to raise successful-payment conversion. Only 24% of subscriptions converted, leaving $353,500 of pipeline revenue uncollected.
@@ -27,12 +33,6 @@ Finds where users drop off in a payment portal and recommends fixes to raise suc
 `SQL` · `Python` · `Snowflake`
 
 ## 🌐 Web Apps
-
-### [Stock Portfolio Tracker](https://github.com/hoomanv3xo/Stocks-Portfolio)
-
-Record stock purchases and track portfolio value over time.
-
-`Flask` · `Python`
 
 ### [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot)
 
@@ -91,3 +91,4 @@ Scrapes men's shirt listings (name, price, image) and exports to CSV, JSON, and 
 Open to junior-to-mid full-stack, backend, and data analyst roles, plus freelance work.
 
 [LinkedIn](https://www.linkedin.com/in/hoomanvahdat) · [Email](mailto:hoomanv3@gmail.com) · [Home Page](https://hooman-codes.ca) · [Blog](https://hoomanvahdat0.github.io) · [Upwork](https://www.upwork.com/freelancers/~01296bbcc2396a072c?mp_source=share) · [Fiverr](https://www.fiverr.com/s/Neek8zp)
+
