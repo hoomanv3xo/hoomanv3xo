@@ -43,15 +43,13 @@ React game with win detection and move-history time travel, deployed on Netlify.
 `React` · `JavaScript`
 
 
-
-
 ### [Diabetes Prediction App](https://github.com/hoomanv3xo/Diabetes-Prediction-System)
 
 ML app that estimates diabetes risk from patient health metrics, trained on the Pima Indians Diabetes dataset.
 
 `Streamlit` · `scikit-learn`
 
-### [TrimEster]()
+### [TrimEster](https://github.com/hoomanv3xo/TrimEster)
 
 Delivered a weight-monitoring web app where users can record their weights and see their progress graphically.
 
