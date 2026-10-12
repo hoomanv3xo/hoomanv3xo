@@ -28,7 +28,7 @@ A simple Flask web application for tracking stock purchases. Users can add stock
 
 ### [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot)
 
-Web-based chatbot built with Flask and the Cohere AI API. Users ask questions in the browser and get AI-generated responses rendered as formatted Markdown.
+A simple web-based chatbot built with Flask and powered by the Cohere AI API. Users can ask questions through a browser interface and receive AI-generated responses rendered in formatted Markdown.
 
 `Flask` · `Cohere API`
 
