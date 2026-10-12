@@ -50,7 +50,7 @@ Weight-tracking web app where users record their weight and see their progress o
 
 ### [Diabetes Prediction App](https://github.com/hoomanv3xo/Diabetes-Prediction-System)
 
-ML app that estimates diabetes risk from patient health metrics, trained on the Pima Indians Diabetes dataset.
+A machine learning web application that predicts the risk of diabetes based on patient health metrics. Built with Streamlit and a Random Forest Classifier trained on the Pima Indians Diabetes dataset.
 
 `Streamlit` · `scikit-learn`
 
