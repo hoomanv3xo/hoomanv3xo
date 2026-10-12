@@ -36,7 +36,7 @@ A simple web-based chatbot built with Flask and powered by the Cohere AI API. Us
 
 ### [Tic-Tac-Toe](https://github.com/hoomanv3xo/tic-tac-toe-react) · [Live demo](https://hooman-tictactoe.netlify.app)
 
-React game with win detection and move-history time travel, deployed on Netlify.
+An interactive two-player tic-tac-toe game built with React. Players take turns placing X and O on a 3x3 board, and the game detects wins and draws automatically.
 
 `React` · `JavaScript`
 
