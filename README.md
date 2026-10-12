@@ -20,7 +20,7 @@
 
 ### [Stock Portfolio Tracker](https://github.com/hoomanv3xo/Stocks-Portfolio)
 
-Record stock purchases and track portfolio value over time.
+A simple Flask web application for tracking stock purchases. Users can add stocks by entering a symbol, number of shares, and purchase price, then view them in a portfolio table.
 
 `Flask` · `Python`
 
