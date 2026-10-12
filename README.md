@@ -32,7 +32,7 @@ Web-based chatbot built with Flask and the Cohere AI API. Users ask questions in
 
 `Flask` · `Cohere API`
 
-### [Wiki (CS50W)](https://github.com/code50/16233385/tree/main/wiki)
+### [Wiki (CS50W)](https://github.com/code50/16233385)
 
 Wikipedia-style web app for creating, editing, and searching encyclopedia entries.
 
