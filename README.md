@@ -32,12 +32,6 @@ Web-based chatbot built with Flask and the Cohere AI API. Users ask questions in
 
 `Flask` · `Cohere API`
 
-### [Wiki (CS50W)](https://github.com/code50/16233385)
-
-Wikipedia-style web app for creating, editing, and searching encyclopedia entries.
-
-`Python` · `Django` · `HTML/CSS`
-
 ## Front-End & React
 
 ### [Tic-Tac-Toe](https://github.com/hoomanv3xo/tic-tac-toe-react) · [Live demo](https://hooman-tictactoe.netlify.app)
