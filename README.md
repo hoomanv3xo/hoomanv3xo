@@ -18,7 +18,7 @@
 
 ## Featured
 
-### [Stock Portfolio Tracker](https://github.com/hoomanv3xo/Stocks-Portfolio)
+### [Stock Portfolio Tracker](https://github.com/hoomanv3xo/Stocks-Portfolio) · [Live demo](**[Live Demo](https://hooman-stocks.onrender.com/)**)
 
 A simple Flask web application for tracking stock purchases. Users can add stocks by entering a symbol, number of shares, and purchase price, then view them in a portfolio table.
 
@@ -26,7 +26,7 @@ A simple Flask web application for tracking stock purchases. Users can add stock
 
 ## Back-End & APIs
 
-### [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot)
+### [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot) · [Live demo](**[Live Demo](https://hooman-chatbot.onrender.com/)**)
 
 A simple web-based chatbot built with Flask and powered by the Cohere AI API. Users can ask questions through a browser interface and receive AI-generated responses rendered in formatted Markdown.
 
