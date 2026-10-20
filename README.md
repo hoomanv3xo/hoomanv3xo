@@ -24,6 +24,12 @@ A simple Flask web application for tracking stock purchases. Users can add stock
 
 `Flask` · `Python`
 
+### [AWS Portfolio](https://github.com/hoomanv3xo/Stocks-Portfolio) · [Live Demo](https://main.dge1x5t4njog6.amplifyapp.com)
+
+A simple static portfolio website, hosted on AWS Amplify and deployed automatically from this repository.
+
+`HTML` · `CSS`
+
 ## Back-End & APIs
 
 ### [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot) · [Live Demo](https://hooman-chatbot.onrender.com)
@@ -39,6 +45,8 @@ A simple web-based chatbot built with Flask and powered by the Cohere AI API. Us
 An interactive two-player tic-tac-toe game built with React. Players take turns placing X and O on a 3x3 board, and the game detects wins and draws automatically.
 
 `React` · `JavaScript`
+
+
 
 ### [TrimEster](https://github.com/hoomanv3xo/TrimEster)
 
