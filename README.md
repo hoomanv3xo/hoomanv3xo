@@ -28,7 +28,7 @@ A simple Flask web application for tracking stock purchases. Users can add stock
 
 A simple static portfolio website, hosted on AWS Amplify and deployed automatically from this repository.
 
-`HTML` · `CSS`
+`HTML` · `CSS` . `AWS Amplify Hosting`
 
 ## Back-End & APIs
 
