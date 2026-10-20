@@ -24,7 +24,7 @@ A simple Flask web application for tracking stock purchases. Users can add stock
 
 `Flask` · `Python`
 
-### [AWS Portfolio](https://github.com/hoomanv3xo/Stocks-Portfolio) · [Live Demo](https://main.dge1x5t4njog6.amplifyapp.com)
+### [AWS Portfolio](https://github.com/hoomanv3xo/aws-portfolio) · [Live Demo](https://main.dge1x5t4njog6.amplifyapp.com)
 
 A simple static portfolio website, hosted on AWS Amplify and deployed automatically from this repository.
 
