@@ -24,7 +24,7 @@ A simple Flask web application for tracking stock purchases. Users can add stock
 
 `Flask` · `Python`
 
-### [Weather Dashboard ](https://github.com/hoomanv3xo/Weather-Dashboard) · [Live Demo](https://hooman-weather.vercel.app)
+### [Weather Dashboard ](https://github.com/hoomanv3xo/React-Weather-Dashboard) · [Live Demo](https://hooman-weather.vercel.app)
 
 A simple weather app built with React and Vite. Search for any city or use your current location to see current conditions, a 24-hour temperature chart, and a 7-day forecast. No API keys required.
 
