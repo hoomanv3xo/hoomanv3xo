@@ -28,7 +28,7 @@ A simple Flask web application for tracking stock purchases. Users can add stock
 
 A simple weather app built with React and Vite. Search for any city or use your current location to see current conditions, a 24-hour temperature chart, and a 7-day forecast. No API keys required.
 
-`React` · `Vite` · `HTML` · `CSS`
+`React` · `JavaScript` · `HTML` · `CSS`
 
 ### [AWS Portfolio](https://github.com/hoomanv3xo/aws-portfolio) · [Live Demo](https://main.dge1x5t4njog6.amplifyapp.com)
 
@@ -36,7 +36,6 @@ A simple static portfolio website, hosted on AWS Amplify and deployed automatica
 
 `HTML` · `CSS` . `AWS Amplify Hosting`
 
-## Back-End & APIs
 
 ### [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot) · [Live Demo](https://hooman-chatbot.onrender.com)
 
@@ -44,7 +43,6 @@ A simple web-based chatbot built with Flask and powered by the Cohere AI API. Us
 
 `Flask` · `Cohere API`
 
-## Front-End & React
 
 ### [Tic-Tac-Toe](https://github.com/hoomanv3xo/tic-tac-toe-react) · [Live demo](https://hooman-tictactoe.netlify.app)
 
@@ -53,14 +51,12 @@ An interactive two-player tic-tac-toe game built with React. Players take turns 
 `React` · `JavaScript`
 
 
-
 ### [TrimEster](https://github.com/hoomanv3xo/TrimEster)
 
 Weight-tracking web app where users record their weight and see their progress on a graph.
 
 `HTML/CSS` · `JavaScript`
 
-## Machine Learning
 
 ### [Diabetes Prediction App](https://github.com/hoomanv3xo/Diabetes-Prediction-System)
 
