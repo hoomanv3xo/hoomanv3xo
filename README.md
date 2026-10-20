@@ -28,7 +28,7 @@ A simple Flask web application for tracking stock purchases. Users can add stock
 
 A simple weather app built with React and Vite. Search for any city or use your current location to see current conditions, a 24-hour temperature chart, and a 7-day forecast. No API keys required.
 
-`React` · `JavaScript` · `HTML` · `CSS`
+`React` · `Vite` · `HTML` · `CSS`
 
 ### [AWS Portfolio](https://github.com/hoomanv3xo/aws-portfolio) · [Live Demo](https://main.dge1x5t4njog6.amplifyapp.com)
 
