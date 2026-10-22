@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Developer</b> · Toronto, Canada<br>
-  I build web apps, data dashboards, and ML tools with Python, SQL, and JavaScript.<br>
+  I build web apps, data dashboards, and ML tools with Python, JavaScript, and SQL.<br>
   Currently pursuing an <b>M.Sc. in Computer Science</b> at the University of Colorado Boulder.
 </p>
 
