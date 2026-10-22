@@ -51,9 +51,7 @@ An interactive two-player tic-tac-toe game built with React. Players take turns 
 `React` · `JavaScript`
 
 
-
-
-# 🩺 Diabetes Prediction System   **[Live Demo](https://hooman-diabetes-prediction-system.streamlit.app/)**
+### [Diabetes Prediction System](https://github.com/hoomanv3xo/diabetes-prediction-system) . [Live Demo](https://hooman-diabetes-prediction-system.streamlit.app/)
 
 A machine learning web app that estimates diabetes risk from patient health metrics. Built with **Streamlit** and a **Random Forest** pipeline trained on the Pima Indians Diabetes dataset (768 patients).
 
