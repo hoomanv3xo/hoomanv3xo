@@ -55,7 +55,7 @@ An interactive two-player tic-tac-toe game built with React. Players take turns 
 
 A machine learning web app that estimates diabetes risk from patient health metrics. Built with **Streamlit** and a **Random Forest** pipeline trained on the Pima Indians Diabetes dataset (768 patients).
 
-`Python` · `Streamlit` · `Scikit-Learn`
+`Python` · `Pandas` · `Numpy` · `Streamlit` · `Scikit-learn`
 
 ## 🛠️ Toolkit
 
