@@ -51,20 +51,13 @@ An interactive two-player tic-tac-toe game built with React. Players take turns 
 `React` · `JavaScript`
 
 
-### [TrimEster](https://github.com/hoomanv3xo/TrimEster)
-
-Weight-tracking web app where users record their weight and see their progress on a graph.
-
-`HTML/CSS` · `JavaScript`
 
 
-### [Diabetes Prediction App](https://github.com/hoomanv3xo/Diabetes-Prediction-System)
+# 🩺 Diabetes Prediction System   **[Live Demo](https://hooman-diabetes-prediction-system.streamlit.app/)**
 
-A machine learning web application that predicts the risk of diabetes based on patient health metrics. Built with Streamlit and a Random Forest Classifier trained on the Pima Indians Diabetes dataset.
+A machine learning web app that estimates diabetes risk from patient health metrics. Built with **Streamlit** and a **Random Forest** pipeline trained on the Pima Indians Diabetes dataset (768 patients).
 
-`Streamlit` · `scikit-learn`
-
----
+`Python` · `Streamlit` · `Scikit-Learn`
 
 ## 🛠️ Toolkit
 
