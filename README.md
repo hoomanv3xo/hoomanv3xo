@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Hooman Vahdat 👋</h1>
 
 <p align="center">
-  <b>Software Developer</b> · Toronto, Canada<br>
-  I build web apps, data dashboards, and ML tools with Python, JavaScript, and SQL.<br>
-  Currently pursuing an <b>M.Sc. in Computer Science</b> at the University of Colorado Boulder.
+  <b>Data Analyst</b> · Toronto, Canada<br>
+  Specializing in <b>SQL, Python, Machine Learning & Interactive Dashboards</b>—turning raw data into actionable business insights.<br>
+  Currently pursuing an <b>M.Sc. in Data Science</b> at the University of Colorado Boulder.
 </p>
 
 <p align="center">
