@@ -18,44 +18,44 @@
 
 ## Featured
 
-### [Stock Portfolio Tracker](https://github.com/hoomanv3xo/Stocks-Portfolio) · [Live Demo](https://hooman-stocks.onrender.com)
+### [Payment Funnel Analysis SaaS FinTech](https://github.com/hoomanv3xo/Payment-Funnel-Analysis-SaaS-FinTech) 
 
-A simple Flask web application for tracking stock purchases. Users can add stocks by entering a symbol, number of shares, and purchase price, then view them in a portfolio table.
+By evaluating payment status logs (payment_status_log) and customer subscription records, the analysis found that only 24.0% of subscriptions successfully convert to paid status, leaving $353,500 (77.3% of total pipeline revenue) uncollected.
 
-`Flask` · `Python`
+`SQL` · `Python`
 
-### [Weather Dashboard ](https://github.com/hoomanv3xo/React-Weather-Dashboard) · [Live Demo](https://hooman-weather.vercel.app)
+### [SaaS Churn Prediction](https://github.com/hoomanv3xo/SaaS_Churn_Prediction)  
+A machine learning project that predicts which SaaS subscribers are likely to cancel, comparing three classification models and saving the best one for reuse.
 
-A simple weather app built with React and Vite. Search for any city or use your current location to see current conditions, a 24-hour temperature chart, and a 7-day forecast. No API keys required.
-
-`React` · `JavaScript` · `HTML` · `CSS`
-
-### [AWS Portfolio](https://github.com/hoomanv3xo/aws-portfolio) · [Live Demo](https://main.dge1x5t4njog6.amplifyapp.com)
-
-A simple static portfolio website, hosted on AWS Amplify and deployed automatically from this repository.
-
-`HTML` · `CSS` . `AWS Amplify Hosting`
+'Python' . 'pandas' . 'NumPy' . 'scikit-learn' . 'XGBoost' . 'Matplotlib' . 'joblib'
 
 
-### [Flask Cohere Chatbot](https://github.com/hoomanv3xo/Chatbot) · [Live Demo](https://hooman-chatbot.onrender.com)
+### [HealthCare Data Analysis](https://github.com/hoomanv3xo/HealthCare_Data_Analysis) 
 
-A simple web-based chatbot built with Flask and powered by the Cohere AI API. Users can ask questions through a browser interface and receive AI-generated responses rendered in formatted Markdown.
+This project provides an end-to-end data pipeline and analytical suite for a synthetic healthcare dataset and it covers data cleaning, deduplication, schema standardization, and SQL/Python analytical queries targeting key stakeholder metrics.
 
-`Flask` · `Cohere API`
-
-
-### [Tic-Tac-Toe](https://github.com/hoomanv3xo/tic-tac-toe-react) · [Live demo](https://hooman-tictactoe.netlify.app)
-
-An interactive two-player tic-tac-toe game built with React. Players take turns placing X and O on a 3x3 board, and the game detects wins and draws automatically.
-
-`React` · `JavaScript`
-
+`SQL` · `Python` 
 
 ### [Diabetes Prediction System](https://github.com/hoomanv3xo/diabetes-prediction-system) . [Live Demo](https://hooman-diabetes-prediction-system.streamlit.app/)
 
 A machine learning web app that estimates diabetes risk from patient health metrics. Built with **Streamlit** and a **Random Forest** pipeline trained on the Pima Indians Diabetes dataset (768 patients).
 
 `Python` · `Pandas` · `Numpy` · `Streamlit` · `Scikit-learn`
+
+### [Subscription-Data-Cleaning-Analysis-Project](https://github.com/hoomanv3xo/Subscription-Data-Cleaning-Analysis-Project) 
+
+This project involved setting up a local MySQL database, importing nine raw CSV datasets related to a subscription business (customers, products, subscriptions, payments, cancellations, and frontend events), cleaning and standardizing the data, and preparing it for relational analysis.
+
+`SQL` 
+
+### [World-Population-Dashboard](https://github.com/hoomanv3xo/World-Population-Dashboard) 
+
+An interactive dashboard for exploring world population data by country and year, built with Python, Plotly Dash, and pandas.
+
+`Python` · `Pandas` · `PLotly Dash` · `PLotly Express`
+
+
+
 
 ## 🛠️ Toolkit
 
